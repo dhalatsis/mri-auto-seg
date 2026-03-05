@@ -1,0 +1,9 @@
+antspyx>=0.6.0
+SimpleITK>=2.5.0
+nibabel>=5.0.0
+pydicom>=3.0.0
+dicom2nifti>=2.6.0
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-image>=0.20.0
+matplotlib>=3.7.0

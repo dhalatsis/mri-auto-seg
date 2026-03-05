@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Data (large NIfTI/DICOM files)
+data/
+nnUNet_data/
+
+# Results and figures (regenerable)
+results/
+figures/
+
+# Raw source data (if re-added)
+MRI_Segmentation_2/
+PD_PROPELLER_5MM_FATS_FLX_0012/
+*.zip
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
